@@ -1,0 +1,15 @@
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\bin\Debug\net8.0\AirBnb.Application.deps.json
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\bin\Debug\net8.0\AirBnb.Application.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\bin\Debug\net8.0\AirBnb.Application.pdb
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\bin\Debug\net8.0\AirBnb.Domain.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\bin\Debug\net8.0\AirBnb.Domain.pdb
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\AirBnb.Application.csproj.AssemblyReference.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\AirBnb.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\AirBnb.Application.AssemblyInfoInputs.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\AirBnb.Application.AssemblyInfo.cs
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\AirBnb.Application.csproj.CoreCompileInputs.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\AirBnb.Application.csproj.CopyComplete
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\AirBnb.Application.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\refint\AirBnb.Application.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\AirBnb.Application.pdb
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Application\obj\Debug\net8.0\ref\AirBnb.Application.dll

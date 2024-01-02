@@ -1,0 +1,17 @@
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.deps.json
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.runtimeconfig.json
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.dll
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.pdb
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.dll
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.pdb
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.csproj.AssemblyReference.cache
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.AssemblyInfoInputs.cache
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.AssemblyInfo.cs
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.csproj.CoreCompileInputs.cache
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.csproj.CopyComplete
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.dll
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\refint\LocalIdentity.SimpleInfra.Persistence.dll
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.pdb
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Persistence.genruntimeconfig.cache
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Persistence\obj\Debug\net8.0\ref\LocalIdentity.SimpleInfra.Persistence.dll

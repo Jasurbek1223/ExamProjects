@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LocalIdentity.SimpleInfra.Api.props" />
+</Project>

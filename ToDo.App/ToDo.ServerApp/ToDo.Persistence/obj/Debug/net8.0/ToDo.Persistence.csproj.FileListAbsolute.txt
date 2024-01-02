@@ -1,0 +1,17 @@
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\bin\Debug\net8.0\ToDo.Persistence.deps.json
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\bin\Debug\net8.0\ToDo.Persistence.runtimeconfig.json
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\bin\Debug\net8.0\ToDo.Persistence.dll
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\bin\Debug\net8.0\ToDo.Persistence.pdb
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\bin\Debug\net8.0\ToDo.Domain.dll
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\bin\Debug\net8.0\ToDo.Domain.pdb
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.csproj.AssemblyReference.cache
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.AssemblyInfoInputs.cache
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.AssemblyInfo.cs
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.csproj.CoreCompileInputs.cache
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.csproj.CopyComplete
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.dll
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\refint\ToDo.Persistence.dll
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.pdb
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ToDo.Persistence.genruntimeconfig.cache
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Persistence\obj\Debug\net8.0\ref\ToDo.Persistence.dll

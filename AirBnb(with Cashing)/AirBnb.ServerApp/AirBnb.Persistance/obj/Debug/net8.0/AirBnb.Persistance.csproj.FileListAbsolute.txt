@@ -1,0 +1,17 @@
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\bin\Debug\net8.0\AirBnb.Persistance.deps.json
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\bin\Debug\net8.0\AirBnb.Persistance.runtimeconfig.json
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\bin\Debug\net8.0\AirBnb.Persistance.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\bin\Debug\net8.0\AirBnb.Persistance.pdb
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\bin\Debug\net8.0\AirBnb.Domain.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\bin\Debug\net8.0\AirBnb.Domain.pdb
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.csproj.AssemblyReference.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.AssemblyInfoInputs.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.AssemblyInfo.cs
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.csproj.CoreCompileInputs.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.csproj.CopyComplete
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\refint\AirBnb.Persistance.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.pdb
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\AirBnb.Persistance.genruntimeconfig.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Persistance\obj\Debug\net8.0\ref\AirBnb.Persistance.dll

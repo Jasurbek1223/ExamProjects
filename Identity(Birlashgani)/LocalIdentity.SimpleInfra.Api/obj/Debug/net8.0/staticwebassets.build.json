@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xTWn93FeXrFoq9EKIwykvReam8oyuFJTVlqqZWwohbA=",
+  "Source": "LocalIdentity.SimpleInfra.Api",
+  "BasePath": "_content/LocalIdentity.SimpleInfra.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

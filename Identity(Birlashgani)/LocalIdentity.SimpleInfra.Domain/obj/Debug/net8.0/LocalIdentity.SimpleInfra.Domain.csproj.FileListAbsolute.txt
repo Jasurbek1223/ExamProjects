@@ -1,0 +1,12 @@
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.deps.json
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.dll
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\bin\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.pdb
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.csproj.AssemblyReference.cache
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.AssemblyInfoInputs.cache
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.AssemblyInfo.cs
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.csproj.CoreCompileInputs.cache
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.dll
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\refint\LocalIdentity.SimpleInfra.Domain.dll
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\LocalIdentity.SimpleInfra.Domain.pdb
+D:\Front End\BackEnd\LocalIdentity.SimpleInfra.Domain\obj\Debug\net8.0\ref\LocalIdentity.SimpleInfra.Domain.dll

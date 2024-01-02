@@ -1,0 +1,11 @@
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.deps.json
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.dll
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\bin\Debug\net8.0\ToDo.Domain.pdb
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.AssemblyInfoInputs.cache
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.AssemblyInfo.cs
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.dll
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\obj\Debug\net8.0\refint\ToDo.Domain.dll
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\obj\Debug\net8.0\ToDo.Domain.pdb
+D:\Front End\Simple.ToDoApp\ToDo.ServerApp\ToDo.Domain\obj\Debug\net8.0\ref\ToDo.Domain.dll

@@ -1,0 +1,11 @@
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\bin\Debug\net8.0\AirBnb.Domain.deps.json
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\bin\Debug\net8.0\AirBnb.Domain.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\bin\Debug\net8.0\AirBnb.Domain.pdb
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.AssemblyInfoInputs.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.AssemblyInfo.cs
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.csproj.CoreCompileInputs.cache
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\refint\AirBnb.Domain.dll
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.pdb
+D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\ref\AirBnb.Domain.dll

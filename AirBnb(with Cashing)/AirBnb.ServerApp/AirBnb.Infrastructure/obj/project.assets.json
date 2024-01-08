@@ -845,11 +845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Infrastructure\\AirBnb.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Infrastructure\\AirBnb.Infrastructure.csproj",
       "projectName": "AirBnb.Infrastructure",
-      "projectPath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Infrastructure\\AirBnb.Infrastructure.csproj",
+      "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Infrastructure\\AirBnb.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Infrastructure\\obj\\",
+      "outputPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -864,11 +864,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj": {
-              "projectPath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj"
+            "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj": {
+              "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj"
             },
-            "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Persistance\\AirBnb.Persistance.csproj": {
-              "projectPath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Persistance\\AirBnb.Persistance.csproj"
+            "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Persistance\\AirBnb.Persistance.csproj": {
+              "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Persistance\\AirBnb.Persistance.csproj"
             }
           }
         }

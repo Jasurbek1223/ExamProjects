@@ -3155,11 +3155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Api\\ToDo.Api.csproj",
+      "projectUniqueName": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Api\\ToDo.Api.csproj",
       "projectName": "ToDo.Api",
-      "projectPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Api\\ToDo.Api.csproj",
+      "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Api\\ToDo.Api.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Api\\obj\\",
+      "outputPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3174,8 +3174,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj": {
-              "projectPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj"
+            "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj": {
+              "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj"
             }
           }
         }

@@ -36,7 +36,8 @@ public static partial class HostConfiguration
     private static WebApplicationBuilder AddBusinessLogicInfrastructure(this WebApplicationBuilder builder)
     {
         // register persistence
-        builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("AppDatabaseConnection")));
+        builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseNpgsql(builder.Configuration.GetConnectionString("AppDatabaseConnection")));
 
         // register repositories
         builder.Services.AddScoped<ITodoRepository, TodoRepository>();
@@ -58,7 +59,13 @@ public static partial class HostConfiguration
     private static WebApplicationBuilder AddCors(this WebApplicationBuilder builder)
     {
         builder.Services.AddCors(
-            options => { options.AddDefaultPolicy(policyBuilder => { policyBuilder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader(); }); }
+            options =>
+            {
+                options.AddDefaultPolicy(policyBuilder =>
+                {
+                    policyBuilder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+                });
+            }
         );
 
         return builder;

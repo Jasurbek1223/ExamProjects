@@ -15,5 +15,5 @@ public interface ITodoRepository
 
     ValueTask<bool> UpdateAsync(TodoItem todoItem, CancellationToken cancellationToken = default);
 
-    ValueTask<bool> DeleteByIdAsync(Guid todoId, CancellationToken cancellationToken);
+    ValueTask<bool> DeleteByIdAsync(Guid todoId, CancellationToken cancellationToken = default);
 }

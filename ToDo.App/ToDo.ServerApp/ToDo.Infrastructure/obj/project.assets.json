@@ -808,11 +808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj",
       "projectName": "ToDo.Infrastructure",
-      "projectPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj",
+      "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Infrastructure\\obj\\",
+      "outputPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -827,11 +827,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Application\\ToDo.Application.csproj": {
-              "projectPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Application\\ToDo.Application.csproj"
+            "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Application\\ToDo.Application.csproj": {
+              "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Application\\ToDo.Application.csproj"
             },
-            "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Persistence\\ToDo.Persistence.csproj": {
-              "projectPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Persistence\\ToDo.Persistence.csproj"
+            "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Persistence\\ToDo.Persistence.csproj": {
+              "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Persistence\\ToDo.Persistence.csproj"
             }
           }
         }

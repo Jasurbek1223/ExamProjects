@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Options;
 using ToDo.Domain.Entities;
 using ToDo.Domain.Enums;
-    
+
 namespace ToDo.Infrastructure.Validators;
 
 public class TodoValidator : AbstractValidator<TodoItem>

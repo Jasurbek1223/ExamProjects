@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BN7KV4PMoQUiRhvDBs1QTHCsUp15QT2JiiPTVzRuaJ+E30QHgQiNJWaulnX7CqOHDT6PCYkfXfKdxqoPx2USHA==",
+  "dgSpecHash": "zVWm7kzJUrvPsY16xWu2CslfFGM3IVGSCG4qncRRcLmokRS9FlupEZtfQUUZOOj+nA9mvJvQSM7LHJ6Dn1Kh9w==",
   "success": true,
-  "projectFilePath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj",
+  "projectFilePath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Infrastructure\\ToDo.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

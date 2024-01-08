@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "knVN17sfx+CudEEZQP7EbURZ8ClNZfHvO0+NN/f4u1A=",
+  "Hash": "CPjouKKdRP5LHg0gBxUfmUyfJNmTtzE8ZzA9uOgXh6g=",
   "Source": "AirBnb.Api",
   "BasePath": "_content/AirBnb.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AirBnb.Api\\wwwroot",
       "Source": "AirBnb.Api",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860e2023-04-13.png",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860e2023-04-13.png",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "206fc3b4-0c9f-48cd-aceb-457a6e54860e2023-04-13.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860e2023-04-13.png"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860ebasketball.jpg",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860ebasketball.jpg",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "206fc3b4-0c9f-48cd-aceb-457a6e54860ebasketball.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860ebasketball.jpg"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860ee6bb121be51d50de383193c8a2c953fa.jpg",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860ee6bb121be51d50de383193c8a2c953fa.jpg",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "206fc3b4-0c9f-48cd-aceb-457a6e54860ee6bb121be51d50de383193c8a2c953fa.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\206fc3b4-0c9f-48cd-aceb-457a6e54860ee6bb121be51d50de383193c8a2c953fa.jpg"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\25582dc9-90a7-46a3-8289-30382c512128Screenshot 2023-10-16 193151.png",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\25582dc9-90a7-46a3-8289-30382c512128Screenshot 2023-10-16 193151.png",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "25582dc9-90a7-46a3-8289-30382c512128Screenshot 2023-10-16 193151.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\25582dc9-90a7-46a3-8289-30382c512128Screenshot 2023-10-16 193151.png"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\2d9946bf-11b6-41b6-9163-3ece1c186a08NT_photo.jpg",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\2d9946bf-11b6-41b6-9163-3ece1c186a08NT_photo.jpg",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "2d9946bf-11b6-41b6-9163-3ece1c186a08NT_photo.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\2d9946bf-11b6-41b6-9163-3ece1c186a08NT_photo.jpg"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\56fe3796-7570-4bc8-ae3c-034efda3f71fe6bb121be51d50de383193c8a2c953fa.jpg",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\56fe3796-7570-4bc8-ae3c-034efda3f71fe6bb121be51d50de383193c8a2c953fa.jpg",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "56fe3796-7570-4bc8-ae3c-034efda3f71fe6bb121be51d50de383193c8a2c953fa.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\56fe3796-7570-4bc8-ae3c-034efda3f71fe6bb121be51d50de383193c8a2c953fa.jpg"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\5cf4a50a-5fef-4baf-9238-9de4c56806bcphoto_2023-08-23_20-24-42.jpg",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\5cf4a50a-5fef-4baf-9238-9de4c56806bcphoto_2023-08-23_20-24-42.jpg",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "5cf4a50a-5fef-4baf-9238-9de4c56806bcphoto_2023-08-23_20-24-42.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\5cf4a50a-5fef-4baf-9238-9de4c56806bcphoto_2023-08-23_20-24-42.jpg"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\7aef279a-43f0-4338-b674-b4b973def90fbasketball.jpg",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\7aef279a-43f0-4338-b674-b4b973def90fbasketball.jpg",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "7aef279a-43f0-4338-b674-b4b973def90fbasketball.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\7aef279a-43f0-4338-b674-b4b973def90fbasketball.jpg"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\bed1939b-a5f6-44c2-9c9d-affb392f90e6Turkey.webp",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\bed1939b-a5f6-44c2-9c9d-affb392f90e6Turkey.webp",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "bed1939b-a5f6-44c2-9c9d-affb392f90e6Turkey.webp",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\bed1939b-a5f6-44c2-9c9d-affb392f90e6Turkey.webp"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\db061037-fc9e-417b-8784-c5760242d114e6bb121be51d50de383193c8a2c953fa.jpg",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\db061037-fc9e-417b-8784-c5760242d114e6bb121be51d50de383193c8a2c953fa.jpg",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "db061037-fc9e-417b-8784-c5760242d114e6bb121be51d50de383193c8a2c953fa.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\db061037-fc9e-417b-8784-c5760242d114e6bb121be51d50de383193c8a2c953fa.jpg"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\db061037-fc9e-417b-8784-c5760242d114NT_photo.jpg",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\db061037-fc9e-417b-8784-c5760242d114NT_photo.jpg",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "db061037-fc9e-417b-8784-c5760242d114NT_photo.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\db061037-fc9e-417b-8784-c5760242d114NT_photo.jpg"
     },
     {
-      "Identity": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\db061037-fc9e-417b-8784-c5760242d114Screenshot 2023-10-17 215748.png",
+      "Identity": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\db061037-fc9e-417b-8784-c5760242d114Screenshot 2023-10-17 215748.png",
       "SourceId": "AirBnb.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
+      "ContentRoot": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Api\\wwwroot\\",
       "BasePath": "_content/AirBnb.Api",
       "RelativePath": "db061037-fc9e-417b-8784-c5760242d114Screenshot 2023-10-17 215748.png",
       "AssetKind": "All",

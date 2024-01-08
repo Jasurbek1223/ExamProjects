@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zpzkXL2ga7f71AyGS6c/Et5Yl+xA3QKFo1IpNozpX3OZUe8FYeZGmmLslq3KpEsnXGJcKFKza6aXryH46HfLjA==",
+  "dgSpecHash": "cxL/I2vAVwtUjGyJtN4V/DCZOC2+69QHPwBYjqtl8B+9ZpVdFjPGEpT7RYcMfEXNz7kAWYi1zxqMs64RXDXspQ==",
   "success": true,
-  "projectFilePath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj",
+  "projectFilePath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

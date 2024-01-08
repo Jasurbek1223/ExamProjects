@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKpVr5Jgd2s2u7ivaKKn0lTztUUkEIT4U5HfLbeNTkImm1SITM3F3em3Ha/6Kd3Lkc19k2UX3uD1cIs/nclIHw==",
+  "dgSpecHash": "lUiL694XXA9Z+LZRWjTOwSuxu4yeJADry0E7N2WsvbjSZd5BUL/q8xpfv2HjdyMYusF8YtqeNdd9WKJYR4nW1A==",
   "success": true,
-  "projectFilePath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Persistence\\ToDo.Persistence.csproj",
+  "projectFilePath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Persistence\\ToDo.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

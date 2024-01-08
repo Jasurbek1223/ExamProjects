@@ -2,11 +2,11 @@
 
 public class FuncResult<T>
 {
-    public T Data { get; set; }
+    public T Data { get; init; }
 
     public Exception? Exception { get; }
 
-    public bool IsSucces => Exception is null;
+    public bool IsSuccess => Exception is null;
 
     public FuncResult(T data) => Data = data;
 

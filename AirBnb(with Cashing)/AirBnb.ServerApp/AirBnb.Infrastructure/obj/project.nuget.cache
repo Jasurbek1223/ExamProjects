@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x3zSbqIYeb1ze5dxMN48Q1Vu1ki4w4F2a+Uya4RqPD8p97uaFuarfwb5ASEHysuYOAYRhvomyM7ywiCAo0Pb2w==",
+  "dgSpecHash": "5MouBcWO6WZbwmMOGMPGdSf7rHiIWmtrRdzVLD2C3VMDpHqYG3SlTHPkhF+pgXGzoyxs0S6Nt1FtuEA0PpJFzg==",
   "success": true,
-  "projectFilePath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Infrastructure\\AirBnb.Infrastructure.csproj",
+  "projectFilePath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Infrastructure\\AirBnb.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

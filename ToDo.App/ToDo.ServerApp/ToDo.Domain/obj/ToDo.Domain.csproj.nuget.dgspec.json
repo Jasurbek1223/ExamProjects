@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Domain\\ToDo.Domain.csproj": {}
+    "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Domain\\ToDo.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Domain\\ToDo.Domain.csproj": {
+    "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Domain\\ToDo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Domain\\ToDo.Domain.csproj",
+        "projectUniqueName": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Domain\\ToDo.Domain.csproj",
         "projectName": "ToDo.Domain",
-        "projectPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Domain\\ToDo.Domain.csproj",
+        "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Domain\\ToDo.Domain.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Domain\\obj\\",
+        "outputPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

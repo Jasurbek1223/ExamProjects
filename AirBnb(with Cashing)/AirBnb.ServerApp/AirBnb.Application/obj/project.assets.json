@@ -143,11 +143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj",
+      "projectUniqueName": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj",
       "projectName": "AirBnb.Application",
-      "projectPath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj",
+      "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Application\\AirBnb.Application.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Application\\obj\\",
+      "outputPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -162,8 +162,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Domain\\AirBnb.Domain.csproj": {
-              "projectPath": "D:\\Front End\\Class Front-End\\VueJs\\AirBnb\\AirBnb.ServerApp\\AirBnb.Domain\\AirBnb.Domain.csproj"
+            "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Domain\\AirBnb.Domain.csproj": {
+              "projectPath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\AirBnb(with Cashing)\\AirBnb.ServerApp\\AirBnb.Domain\\AirBnb.Domain.csproj"
             }
           }
         }

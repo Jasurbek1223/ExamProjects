@@ -9,3 +9,15 @@ D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Deb
 D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\refint\AirBnb.Domain.dll
 D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.pdb
 D:\Front End\Class Front-End\VueJs\AirBnb\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\ref\AirBnb.Domain.dll
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\bin\Debug\net8.0\AirBnb.Domain.deps.json
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\bin\Debug\net8.0\AirBnb.Domain.dll
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\bin\Debug\net8.0\AirBnb.Domain.pdb
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.AssemblyInfoInputs.cache
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.AssemblyInfo.cs
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.csproj.CoreCompileInputs.cache
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.sourcelink.json
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.dll
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\refint\AirBnb.Domain.dll
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\AirBnb.Domain.pdb
+D:\Najot talim\Exam(Last6)Jasur\ExamProjects\AirBnb(with Cashing)\AirBnb.ServerApp\AirBnb.Domain\obj\Debug\net8.0\ref\AirBnb.Domain.dll

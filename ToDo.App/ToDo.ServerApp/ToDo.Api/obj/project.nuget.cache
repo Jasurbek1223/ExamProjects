@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ea6usJIMvIUjCtB4k6bj7M1Ti4idIcuLMQSyATX3kWuPJy3G4oBjN/NNK2c2dgb/S7lKA+IyvDefvZWXHgc9xQ==",
+  "dgSpecHash": "ad7XjPeC+GGVoJgwp3Bdu2eC5r2laKZukRX03gb2PZ47bxKQ7rqmg+So4wcMHkvyec9NdNxx91SX6N5YTkD5uw==",
   "success": true,
-  "projectFilePath": "D:\\Front End\\Simple.ToDoApp\\ToDo.ServerApp\\ToDo.Api\\ToDo.Api.csproj",
+  "projectFilePath": "D:\\Najot talim\\Exam(Last6)Jasur\\ExamProjects\\ToDo.App\\ToDo.ServerApp\\ToDo.Api\\ToDo.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

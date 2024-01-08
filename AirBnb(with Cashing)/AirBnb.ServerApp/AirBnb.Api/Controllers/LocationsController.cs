@@ -2,8 +2,8 @@ using AirBnb.Api.Common.Filtering;
 using AirBnb.Api.Common.Quering;
 using AirBnb.Application.Common.Locations.Services;
 using AirBnb.Domain.Entities;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading;
 
 namespace AirBnb.Api.Controllers;
 
@@ -17,6 +17,16 @@ public class LocationsController(ILocationService locationService) : ControllerB
         var result = locationService.Get().ApplyPagination(filterPagination);
 
         return new(result.Any() ? Ok(result) : NoContent());
+    }
+
+    [HttpGet("filter/{categoryId:guid}")]
+    public async ValueTask<IActionResult> GetbyCategoryId(
+        [FromRoute] Guid categoryId,
+        [FromQuery] FilterPagination filterPagination)
+    {
+        var result = await locationService.GetByCategoryIdAsync(categoryId, HttpContext.RequestAborted);
+
+        return result.Any() ? Ok(result.ApplyPagination(filterPagination)) : NoContent();
     }
 
     [HttpGet("{id:guid}")]

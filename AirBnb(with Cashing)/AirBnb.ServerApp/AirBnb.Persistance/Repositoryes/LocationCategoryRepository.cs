@@ -1,14 +1,14 @@
-using System.Linq.Expressions;
 using AirBnb.Domain.Entities;
-using AirBnb.Persistance.Caching;
-using AirBnb.Persistance.DbContexts;
-using AirBnb.Persistance.Repositoryes.Interfaces;
+using AirBnb.Persistence.Caching;
+using AirBnb.Persistence.DbContexts;
+using AirBnb.Persistence.Repositories.Interfaces;
+using System.Linq.Expressions;
 
-namespace AirBnb.Persistance.Repositoryes;
+namespace AirBnb.Persistence.Repositories;
 
 public class LocationCategoryRepository(
-        LocationsDbContext dbContext,
-        ICacheBroker cacheBroker)
+    LocationsDbContext dbContext,
+    ICacheBroker cacheBroker)
     : EntityRepositoryBase<LocationCategory, LocationsDbContext>(dbContext, cacheBroker), ILocationCategoryRepository
 {
     public new ValueTask<LocationCategory> CreateAsync(LocationCategory locationCategory, bool saveChanges = true,

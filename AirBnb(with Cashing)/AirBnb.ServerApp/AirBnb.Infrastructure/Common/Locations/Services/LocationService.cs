@@ -1,8 +1,8 @@
-using System.Linq.Expressions;
 using AirBnb.Application.Common.Locations.Services;
 using AirBnb.Domain.Entities;
-using AirBnb.Persistance.Repositoryes.Interfaces;
 using Microsoft.AspNetCore.Http;
+using System.Linq.Expressions;
+using AirBnb.Persistence.Repositories.Interfaces;
 
 namespace AirBnb.Infrastructure.Common.Locations.Services;
 
@@ -10,17 +10,20 @@ public class LocationService(
     ILocationRepository locationRepository,
     IUrlService urlService) : ILocationService
 {
-    public ValueTask<Location> CreateAsync(Location location, bool saveChanges = true, CancellationToken cancellationToken = default)
+    public ValueTask<Location> CreateAsync(Location location, bool saveChanges = true,
+        CancellationToken cancellationToken = default)
     {
         return locationRepository.CreateAsync(location, saveChanges, cancellationToken);
     }
 
-    public ValueTask<Location?> DeleteAsync(Location location, bool saveChanges = true, CancellationToken cancellationToken = default)
+    public ValueTask<Location?> DeleteAsync(Location location, bool saveChanges = true,
+        CancellationToken cancellationToken = default)
     {
-        return locationRepository.DeleteAsync(location, saveChanges, cancellationToken);    
+        return locationRepository.DeleteAsync(location, saveChanges, cancellationToken);
     }
 
-    public ValueTask<Location?> DeleteByIdAsync(Guid id, bool saveChanges = true, CancellationToken cancellationToken = default)
+    public ValueTask<Location?> DeleteByIdAsync(Guid id, bool saveChanges = true,
+        CancellationToken cancellationToken = default)
     {
         return locationRepository.DeleteByIdAsync(id, saveChanges, cancellationToken);
     }
@@ -30,20 +33,29 @@ public class LocationService(
         return locationRepository.Get(predicate, asNoTracking);
     }
 
-    public ValueTask<Location?> GetByIdAsync(Guid id, bool asNoTracking = false, CancellationToken cancellationToken = default)
+    public ValueTask<IQueryable<Location>> GetByCategoryIdAsync(Guid categoryId,
+        CancellationToken cancellationToken = default)
+    {
+        return new(locationRepository.Get().Where(location => location.CategoryId == categoryId));
+    }
+
+    public ValueTask<Location?> GetByIdAsync(Guid id, bool asNoTracking = false,
+        CancellationToken cancellationToken = default)
     {
         return locationRepository.GetByIdAsync(id, asNoTracking, cancellationToken);
     }
 
-    public ValueTask<Location> UpdateAsync(Location location, bool saveChanges = true, CancellationToken cancellationToken = default)
+    public ValueTask<Location> UpdateAsync(Location location, bool saveChanges = true,
+        CancellationToken cancellationToken = default)
     {
         return locationRepository.UpdateAsync(location, saveChanges, cancellationToken);
     }
 
-    public async ValueTask<Location> UploadImageAsync(Guid id, IFormFile image, string webRootPath, CancellationToken cancellationToken = default)
+    public async ValueTask<string> UploadImageAsync(Guid id, IFormFile image, string webRootPath,
+        CancellationToken cancellationToken = default)
     {
         var found = await GetByIdAsync(id, cancellationToken: cancellationToken)
-            ?? throw new InvalidOperationException("Location not found with this Id");
+                    ?? throw new InvalidOperationException("Location not found with this Id");
 
         var relativePath = id.ToString() + image.FileName;
         var filePath = Path.Combine(webRootPath, relativePath);
@@ -55,10 +67,9 @@ public class LocationService(
             await image.CopyToAsync(fileStream, cancellationToken);
         }
 
-        //found.ImageUrl = await urlService.GetUrlFromRelativePath(relativePath);
-        found.ImageUrl = relativePath;
-        return await UpdateAsync(found, cancellationToken: cancellationToken);
+        found.ImageUrl = await urlService.GetUrlFromRelativePath(relativePath);
+        await UpdateAsync(found, cancellationToken: cancellationToken);
 
-        //return await urlService.GetUrlFromRelativePath(filePath);
+        return await urlService.GetUrlFromRelativePath(filePath);
     }
 }

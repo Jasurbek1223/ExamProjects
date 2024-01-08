@@ -2,11 +2,10 @@ using AirBnb.Application.Common.Locations.Services;
 using AirBnb.Infrastructure.Common.Caching;
 using AirBnb.Infrastructure.Common.Locations.Services;
 using AirBnb.Infrastructure.Common.Settings;
-using AirBnb.Persistance.Caching;
-using AirBnb.Persistance.DbContexts;
-using AirBnb.Persistance.Repositoryes;
-using AirBnb.Persistance.Repositoryes.Interfaces;
-using Microsoft.AspNetCore.Cors.Infrastructure;
+using AirBnb.Persistence.Caching;
+using AirBnb.Persistence.DbContexts;
+using AirBnb.Persistence.Repositories;
+using AirBnb.Persistence.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace AirBnb.Api.Configuration;

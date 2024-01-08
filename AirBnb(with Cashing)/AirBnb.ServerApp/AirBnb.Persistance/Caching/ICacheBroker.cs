@@ -1,4 +1,4 @@
-namespace AirBnb.Persistance.Caching;
+namespace AirBnb.Persistence.Caching;
 
 public interface ICacheBroker
 {

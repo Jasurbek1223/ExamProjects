@@ -1,16 +1,16 @@
-using System.Text.Json;
 using AirBnb.Infrastructure.Common.Settings;
-using AirBnb.Persistance.Caching;
 using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Options;
+using System.Text.Json;
+using AirBnb.Persistence.Caching;
 
 namespace AirBnb.Infrastructure.Common.Caching;
 
 public class RedisCacheBroker(
     IDistributedCache distributedCache,
-    IOptions<CacheSettings> cacheoptions) : ICacheBroker
+    IOptions<CacheSettings> cacheOptions) : ICacheBroker
 {
-    private readonly CacheSettings _cacheSettings = cacheoptions.Value;
+    private readonly CacheSettings _cacheSettings = cacheOptions.Value;
 
     public async ValueTask DeleteAsync(string key, CancellationToken cancellationToken = default)
     {
@@ -19,13 +19,13 @@ public class RedisCacheBroker(
 
     public async ValueTask<T?> GetAsync<T>(string key, CancellationToken cancellationToken = default)
     {
-        var value = await distributedCache.GetAsync(key, cancellationToken)
+        var value = await distributedCache.GetStringAsync(key, cancellationToken)
                     ?? throw new InvalidOperationException();
 
         return JsonSerializer.Deserialize<T>(value);
     }
 
-    public async ValueTask<T> GetOrSetAsync<T>(string key, Func<Task<T>> valueFactory,
+    public async ValueTask<T?> GetOrSetAsync<T>(string key, Func<Task<T>> valueFactory,
         CancellationToken cancellationToken = default)
     {
         var stringValue = await distributedCache.GetStringAsync(key, cancellationToken);
@@ -47,7 +47,6 @@ public class RedisCacheBroker(
 
     public async ValueTask SetAsync<T>(string key, T value, CancellationToken cancellationToken = default)
     {
-
         var options = new DistributedCacheEntryOptions
         {
             AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(_cacheSettings.AbsoluteExpirationTimeInMinutes),

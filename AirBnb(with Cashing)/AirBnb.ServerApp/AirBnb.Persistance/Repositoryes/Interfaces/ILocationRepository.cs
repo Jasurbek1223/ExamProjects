@@ -1,14 +1,13 @@
-using System.Linq.Expressions;
 using AirBnb.Domain.Entities;
+using System.Linq.Expressions;
 
-namespace AirBnb.Persistance.Repositoryes.Interfaces;
+namespace AirBnb.Persistence.Repositories.Interfaces;
 
 public interface ILocationRepository
 {
-    IQueryable<Location> Get(Expression<Func<Location, bool>>? predicate = default,
-        bool asNoTracking = false);
+    IQueryable<Location> Get(Expression<Func<Location, bool>>? predicate = default, bool asNoTracking = false);
 
-    ValueTask<Location> GetByIdAsync(Guid id, bool asNoTracking = false,
+    ValueTask<Location?> GetByIdAsync(Guid id, bool asNoTracking = false,
         CancellationToken cancellationToken = default);
 
     ValueTask<Location> CreateAsync(Location location, bool saveChanges = true,

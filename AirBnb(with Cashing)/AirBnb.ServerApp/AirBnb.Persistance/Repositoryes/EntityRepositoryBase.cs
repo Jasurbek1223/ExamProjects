@@ -1,9 +1,9 @@
-using System.Linq.Expressions;
 using AirBnb.Domain.Common.Models;
-using AirBnb.Persistance.Caching;
+using AirBnb.Persistence.Caching;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
-namespace AirBnb.Persistance.Repositoryes;
+namespace AirBnb.Persistence.Repositories;
 
 public class EntityRepositoryBase<TEntity, TContext>(TContext dbContext, ICacheBroker cacheBroker)
     where TEntity : class, IEntity
@@ -65,6 +65,7 @@ public class EntityRepositoryBase<TEntity, TContext>(TContext dbContext, ICacheB
 
         return entity;
     }
+
 
     protected async ValueTask<TEntity> UpdateAsync(TEntity entity, bool saveChanges = true,
         CancellationToken cancellationToken = default)

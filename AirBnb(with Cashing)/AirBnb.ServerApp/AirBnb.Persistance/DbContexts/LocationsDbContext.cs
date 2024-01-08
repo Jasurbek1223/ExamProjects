@@ -1,7 +1,7 @@
 using AirBnb.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace AirBnb.Persistance.DbContexts;
+namespace AirBnb.Persistence.DbContexts;
 
 public class LocationsDbContext : DbContext
 {
@@ -11,7 +11,6 @@ public class LocationsDbContext : DbContext
 
     public LocationsDbContext(DbContextOptions<LocationsDbContext> options) : base(options)
     {
-        
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

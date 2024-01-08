@@ -2,7 +2,6 @@ using AirBnb.Api.Common.Filtering;
 using AirBnb.Api.Common.Quering;
 using AirBnb.Application.Common.Locations.Services;
 using AirBnb.Domain.Entities;
-using AirBnb.Infrastructure.Common.Locations.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AirBnb.Api.Controllers;
@@ -28,7 +27,8 @@ public class LocationCategoriesController(ILocationCategoryService locationCateg
     }
 
     [HttpPost]
-    public async ValueTask<IActionResult> Create([FromBody] LocationCategory locationCategory, CancellationToken cancellationToken)
+    public async ValueTask<IActionResult> Create([FromBody] LocationCategory locationCategory,
+        CancellationToken cancellationToken)
     {
         var result = await locationCategoryService.CreateAsync(locationCategory, cancellationToken: cancellationToken);
 
@@ -36,7 +36,8 @@ public class LocationCategoriesController(ILocationCategoryService locationCateg
     }
 
     [HttpPut]
-    public async ValueTask<IActionResult> Update([FromBody] LocationCategory locationCategory, CancellationToken cancellationToken)
+    public async ValueTask<IActionResult> Update([FromBody] LocationCategory locationCategory,
+        CancellationToken cancellationToken)
     {
         var result = await locationCategoryService.UpdateAsync(locationCategory, cancellationToken: cancellationToken);
 
@@ -58,7 +59,8 @@ public class LocationCategoriesController(ILocationCategoryService locationCateg
         IFormFile image,
         CancellationToken cancellationToken)
     {
-        var result = await locationCategoryService.UploadImageAsync(id, image, environment.WebRootPath, cancellationToken);
+        var result =
+            await locationCategoryService.UploadImageAsync(id, image, environment.WebRootPath, cancellationToken);
         return result is not null ? Ok(result) : BadRequest();
     }
 }

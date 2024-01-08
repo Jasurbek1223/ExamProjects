@@ -1,5 +1,5 @@
-using System.Text.Json.Serialization;
 using AirBnb.Domain.Common.Models;
+using System.Text.Json.Serialization;
 
 namespace AirBnb.Domain.Entities;
 
@@ -23,6 +23,5 @@ public class Location : IEntity
 
     public Guid CategoryId { get; set; }
 
-    [JsonIgnore]
-    public virtual LocationCategory? Category { get; set; } = default;
+    [JsonIgnore] public virtual LocationCategory? Category { get; set; } = default;
 }

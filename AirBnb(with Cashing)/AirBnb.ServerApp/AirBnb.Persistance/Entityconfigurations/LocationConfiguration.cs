@@ -2,7 +2,7 @@ using AirBnb.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace AirBnb.Persistance.Entityconfigurations;
+namespace AirBnb.Persistence.EntityConfigurations;
 
 public class LocationConfiguration
     : IEntityTypeConfiguration<Location>
@@ -13,6 +13,5 @@ public class LocationConfiguration
             .HasOne(location => location.Category)
             .WithMany(category => category.Locations)
             .HasForeignKey(location => location.CategoryId);
-
     }
 }

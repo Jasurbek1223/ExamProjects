@@ -4,12 +4,11 @@ public static class StringExtensions
 {
     public static string ToUrl(this string path)
     {
-        return path.Replace("\\", "/");
+        return path.Replace(@"\", @"/");
     }
 
     public static string ToPath(this string url)
     {
-        return url.Replace("/", "\\");
+        return url.Replace(@"/", @"\");
     }
-                           
 }
